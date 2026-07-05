@@ -78,10 +78,9 @@ class Leo:
 
 ### 🌱 No que estou trabalhando
 
-* TUPÃ e automação de base de referência ambiental
-* SafraSense e monitoramento de safras via satélite (Copernicus)
-* Aplicativos full-stack com IA para problemas reais
-* Ciência de Dados e Engenharia de Software
+* Novos apps full-stack com IA para resolver problemas reais
+* Aprofundando estudos em Ciência de Dados e Engenharia de Software
+* De olho em novos hackathons e desafios pra colocar a mão na massa
 
 ---
 
