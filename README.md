@@ -70,9 +70,9 @@ class Leo:
 
 ### 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Cyborgdsi47&show_icons=true&theme=radical&hide_border=true)
+![Stats](https://github-stats-extended.vercel.app/api?username=Cyborgdsi47&show_icons=true&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyborgdsi47&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Cyborgdsi47&layout=compact&theme=radical&hide_border=true)
 
 ---
 
